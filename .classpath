@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="0001-two-sum/|0001-two-sum/" kind="src" path="Easy"/>
+	<classpathentry excluding="0001-two-sum/|0001-two-sum/|0374-guess-number/|0374-guess-number/|0278-first-bad-version/|0278-first-bad-version/" kind="src" path="Easy"/>
 	<classpathentry kind="src" path="Medium"/>
 	<classpathentry kind="src" path="Hard"/>
 	<classpathentry kind="src" path="Easy/0001-two-sum"/>
+	<classpathentry kind="src" path="Easy/0374-guess-number"/>
+	<classpathentry kind="src" path="Easy/0278-first-bad-version"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
 		<attributes>
 			<attribute name="module" value="true"/>
